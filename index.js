@@ -1,7 +1,6 @@
 'use strict';
 
-var config = require('config'),
-    path   = require('path');
+var path = require('path');
 
 function directory() {
   if (process.env.NODE_CONFIG_DIR) {

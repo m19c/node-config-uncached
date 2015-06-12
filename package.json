@@ -24,5 +24,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/MrBoolean/node-config-uncached.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/gulp"
   }
 }

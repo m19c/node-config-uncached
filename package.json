@@ -1,0 +1,13 @@
+{
+  "name": "config-uncached",
+  "version": "1.0.0",
+  "dependencies": {
+    "config": "~1.14.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-eslint": "~0.13.2",
+    "gulp-mocha": "~2.1.1",
+    "chai": "~3.0.0"
+  }
+}

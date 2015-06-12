@@ -1,6 +1,7 @@
 {
   "name": "config-uncached",
   "version": "1.0.0",
+  "main": "./index.js",
   "dependencies": {
     "config": "~1.14.0"
   },

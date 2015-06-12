@@ -1,6 +1,7 @@
 {
   "name": "config-uncached",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "author": "Marc Binder <marcandrebinder@gmail.com>",
   "main": "./index.js",
   "dependencies": {
     "config": "~1.14.0"
@@ -10,5 +11,18 @@
     "gulp-eslint": "~0.13.2",
     "gulp-mocha": "~2.1.1",
     "chai": "~3.0.0"
+  },
+  "keywords": [
+    "config",
+    "node-config",
+    "uncached",
+    "require"
+  ],
+  "bugs": {
+    "url": "https://github.com/MrBoolean/node-config-uncached/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrBoolean/node-config-uncached.git"
   }
 }

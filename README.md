@@ -1,8 +1,6 @@
-`config-uncached`
-=================
-[nodeConfig]: https://github.com/lorenwest/node-config
+# `config-uncached`
 
-Purge the internal `require.cache` for all files used by [`config`](nodeConfig).
+Purge the internal `require.cache` for all files used by [`config`](https://github.com/lorenwest/node-config).
 
 ## Example
 ```javascript

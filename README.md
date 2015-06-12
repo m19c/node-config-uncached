@@ -2,6 +2,11 @@
 
 Purge the internal `require.cache` for all files used by [`config`](https://github.com/lorenwest/node-config).
 
+## Install
+```ssh
+npm i config-uncached
+```
+
 ## Example
 ```javascript
 var config = require('config-uncached');

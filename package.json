@@ -1,6 +1,6 @@
 {
   "name": "config-uncached",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Marc Binder <marcandrebinder@gmail.com>",
   "main": "./index.js",
   "dependencies": {
